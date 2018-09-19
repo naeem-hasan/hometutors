@@ -2,19 +2,19 @@
 	<tutor>
 		<name>Ranat Das Prangon</name>
 		<subject>Physics</subject>
-		<image_url>https://stuff</image_url>
+		<image_url>https://raw.githubusercontent.com/naeem-hasan/hometutors/master/prangon.jpg</image_url>
 		<class>Class: XI, XII</class>
 	</tutor>
 	<tutor>
-		<name>Ranat Das Prangon</name>
-		<subject>Physics</subject>
-		<image_url>https://stuff</image_url>
-		<class>Class: XI, XII</class>
+		<name>Nahid Hassan Shovo</name>
+		<subject>Mathematics</subject>
+		<image_url>https://raw.githubusercontent.com/naeem-hasan/hometutors/master/shovo.jpg</image_url>
+		<class>Class: Play, Nursery</class>
 	</tutor>
 	<tutor>
-		<name>Ranat Das Prangon</name>
-		<subject>Physics</subject>
-		<image_url>https://stuff</image_url>
-		<class>Class: XI, XII</class>
+		<name>Arup Aich</name>
+		<subject>Astronomy</subject>
+		<image_url>https://raw.githubusercontent.com/naeem-hasan/hometutors/master/arup.jpg</image_url>
+		<class>Class: IX, X</class>
 	</tutor>
 </tutors>
