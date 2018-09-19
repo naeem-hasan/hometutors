@@ -17,4 +17,10 @@
 		<image_url>https://raw.githubusercontent.com/naeem-hasan/hometutors/master/arup.jpg</image_url>
 		<class>Class: IX, X</class>
 	</tutor>
+	<tutor>
+		<name>Nazifa Maisha</name>
+		<subject>Career Education</subject>
+		<image_url>https://raw.githubusercontent.com/naeem-hasan/hometutors/master/maisha.jpg</image_url>
+		<class>Class: IX, X</class>
+	</tutor>
 </tutors>
