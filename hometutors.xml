@@ -29,16 +29,16 @@
     </tutor>
     <tutor>
         <name>Naeem Hasan</name>
-        <subject>Adobe After Effects</subject>
-        <image_name>batman.jpg</image_name>
+        <subject>Python Programming</subject>
+        <image_name>naeem,.jpg</image_name>
         <class>Everyone</class>
         <id>0000005</id>
     </tutor>
     <tutor>
-        <name>Aniruddho Kabbo</name>
-        <subject>Adobe Photoshop</subject>
-        <image_name>batman.jpg</image_name>
-        <class>Class: V - X</class>
+        <name>Sopiko Guramishvili</name>
+        <subject>Chess Openings</subject>
+        <image_name>sopiko.jpg</image_name>
+        <class>Everyone</class>
         <id>0000006</id>
     </tutor>
 </tutors>
