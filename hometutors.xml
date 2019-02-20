@@ -1,9 +1,9 @@
 <tutors>
     <tutor>
-        <name>Ranat Das Prangon</name>
-        <subject>Physics</subject>
+        <name>রণৎ দাস প্রাঙ্গণ</name>
+        <subject>পদার্থবিজ্ঞান</subject>
         <image_name>prangon.jpg</image_name>
-        <class>XI, XII</class>
+        <class>একাদশ, দ্বাদশ</class>
         <id>0000001</id>
     </tutor>
     <tutor>
