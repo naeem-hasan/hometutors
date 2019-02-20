@@ -3,21 +3,21 @@
         <name>Ranat Das Prangon</name>
         <subject>Physics</subject>
         <image_name>prangon.jpg</image_name>
-        <class>Class: XI, XII</class>
+        <class>XI, XII</class>
         <id>0000001</id>
     </tutor>
     <tutor>
         <name>Nahid Hassan Shovo</name>
         <subject>Mathematics</subject>
         <image_name>shovo.jpg</image_name>
-        <class>Class: Play, Nursery</class>
+        <class>Play, Nursery</class>
         <id>0000002</id>
     </tutor>
     <tutor>
         <name>Arup Aich</name>
         <subject>Astronomy</subject>
         <image_name>arup.jpg</image_name>
-        <class>Class: IX, X</class>
+        <class>IX, X</class>
         <id>0000003</id>
     </tutor>
     <tutor>
@@ -29,7 +29,7 @@
     </tutor>
     <tutor>
         <name>Naeem Hasan</name>
-        <subject>Python Programming</subject>
+        <subject>Programming</subject>
         <image_name>naeem.jpg</image_name>
         <class>Everyone</class>
         <id>0000005</id>
